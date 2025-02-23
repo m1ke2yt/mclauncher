@@ -96,7 +96,12 @@
                 "releaseType": "release",
                 "owner": "AuroraTeam",
                 "repo": "Launcher"
-            }
+            },
+    {
+      "provider": "generic",
+      "url": "http://1090.su:9274/files/release",
+      "channel": "latest"
+    }
         ],
         "directories": {
             "buildResources": "resources"
