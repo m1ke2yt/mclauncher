@@ -7,12 +7,12 @@ export const window = {
     resizable: false,
     maximizable: false,
     fullscreenable: false,
-    title: 'Aurora Launcher',
+    title: 'TXC Launcher',
 };
 
 export const api = {
-    ws: 'ws://127.0.0.1:1370/ws',
-    web: 'http://127.0.0.1:1370',
+    ws: 'ws://1090.su:9274/ws',
+    web: 'http://1090.su:9274',
     // extraToken: token,
 };
 
